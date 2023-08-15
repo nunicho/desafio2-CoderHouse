@@ -1,0 +1,29 @@
+[
+     {
+          "title": "Taladro Atornillador",
+          "description": "Percutor 13mm 700w +45",
+          "price": 18973,
+          "thumbnail": "https://http2.mlstatic.com/D_Q_NP_696031-MLA53229149793_012023-AC.webp",
+          "code": "TA-1",
+          "stock": 15,
+          "id": 1
+     },
+     {
+          "title": "Bomba de agua Bestway",
+          "description": "Para pileta de 8300 litros",
+          "price": 15300,
+          "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_2X_834375-MLA53124664257_012023-F.webp",
+          "code": "TA-2",
+          "stock": 8,
+          "id": 2
+     },
+     {
+          "title": "Ventilador",
+          "description": "Pie aluminio plegable",
+          "price": 21000,
+          "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_685663-MLU69658396260_052023-O.webp",
+          "code": "TA-3",
+          "stock": 9,
+          "id": 3
+     }
+]
